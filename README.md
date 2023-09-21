@@ -1,6 +1,5 @@
-# G3B1_JS_GradedProject2
-Resume Application
-
+#Applicant Resume Management Web Application
+----------------------------------------------
 1 user login  : anirudh 
   password    : anirudh
   
